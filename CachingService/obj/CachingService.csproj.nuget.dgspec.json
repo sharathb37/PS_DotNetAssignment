@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PS\\Dot Net Core Project Code Assignment\\Dot Net Core Project Code Assignment\\dotNetCoreUpskilling\\dotNetCoreUpskilling\\CachingService\\CachingService.csproj": {}
+  },
+  "projects": {
+    "D:\\PS\\Dot Net Core Project Code Assignment\\Dot Net Core Project Code Assignment\\dotNetCoreUpskilling\\dotNetCoreUpskilling\\CachingService\\CachingService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PS\\Dot Net Core Project Code Assignment\\Dot Net Core Project Code Assignment\\dotNetCoreUpskilling\\dotNetCoreUpskilling\\CachingService\\CachingService.csproj",
+        "projectName": "CachingService",
+        "projectPath": "D:\\PS\\Dot Net Core Project Code Assignment\\Dot Net Core Project Code Assignment\\dotNetCoreUpskilling\\dotNetCoreUpskilling\\CachingService\\CachingService.csproj",
+        "packagesPath": "C:\\Users\\Xenon\\.nuget\\packages\\",
+        "outputPath": "D:\\PS\\Dot Net Core Project Code Assignment\\Dot Net Core Project Code Assignment\\dotNetCoreUpskilling\\dotNetCoreUpskilling\\CachingService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xenon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.20, 3.1.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
